@@ -8,7 +8,7 @@
 
  > Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from 
 
- @27Saumya 
+ @ViPSeCuRe
 
   
 
@@ -20,7 +20,7 @@
 
  ## User Rights 
 
- > At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request by DMing [27Saumya#0007](https://discord.com/channels/@me/917693263480229918). You have the right to request the removal of relevant Data. 
+ > At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request by DMing ViPSeCuRe#5009. You have the right to request the removal of relevant Data. 
 
   
 
@@ -32,4 +32,4 @@
 
  ## Questions 
 
- > If you have any questions or are concerned about what data might be being stored from your account contact @27Saumya. For more information check the Discord [Terms Of Service](https://discord.com/terms).
+ > If you have any questions or are concerned about what data might be being stored from your account contact @ViPSeCuRe. For more information check the Discord [Terms Of Service](https://discord.com/terms).
