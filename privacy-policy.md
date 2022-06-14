@@ -14,7 +14,7 @@
 
  ## Storage of data 
 
- > All data collected by the Bot is stored locally on an SQLITE database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application. 
+ > All data collected by the Bot is stored locally on an Mongoose database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application. 
 
   
 
