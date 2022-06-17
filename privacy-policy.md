@@ -7,11 +7,8 @@
  > Multi-Life stores & process the following data from discord:-
 
 1) Stores user IDs for gaming experience.For example variables used for balance, heroes,ship,damage etc
-
 Note: This does not contain any personal data
-
 2) Stores server IDs to notify me whenever someone is trying to crash the bot by spamming some commands or messing with the permissions 
-
 3) Message Content to store temporary data which would be used in parts like battle and career mode system (to be released soon) and in various other parts
 
  ## Access to data 
