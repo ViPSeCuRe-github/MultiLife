@@ -38,4 +38,4 @@ Note: This does not contain any personal data
 
  ## Questions 
 
- > If you have any questions or are concerned about what data might be being stored from your account contact @ViPSeCuRe. For more information check the Discord [Terms Of Service](https://discord.com/terms).
+ > If you have any questions or are concerned about what data might be being stored from your account contact multilife.discordbot@gmail.com .For more information check the Discord [Terms Of Service](https://discord.com/terms).
